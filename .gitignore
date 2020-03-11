@@ -1,0 +1,15 @@
+private.el
+snippets/
+var/
+transient/
+request/
+tags
+recentf
+projectile-bookmarks.eld
+init.elc
+emojis/
+elpa/
+.cask/
+.cache
+auto-save-list/
+ac-comphist.dat
